@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java%20Web/J3.L.P0015/src/java/danhnpc/servlets/PagingServlet.java</file>
+            <file>file:/D:/Java%20Web/J3.L.P0015/src/java/danhnpc/servlets/SearchCarServlet.java</file>
+            <file>file:/D:/Java%20Web/J3.L.P0015/src/java/danhnpc/tblusers/TblUsersDAO.java</file>
+            <file>file:/D:/Java%20Web/J3.L.P0015/src/java/danhnpc/filter/FilterDispatcher.java</file>
+            <file>file:/D:/Java%20Web/J3.L.P0015/src/java/danhnpc/servlets/LoginServlet.java</file>
+            <file>file:/D:/Java%20Web/J3.L.P0015/src/java/danhnpc/tblcar/TblCarDAO.java</file>
+            <file>file:/D:/Java%20Web/J3.L.P0015/src/java/danhnpc/tblcategory/TblCategoryDAO.java</file>
+            <file>file:/D:/Java%20Web/J3.L.P0015/web/searchCar.jsp</file>
+            <file>file:/D:/Java%20Web/J3.L.P0015/web/css/style.css</file>
+            <file>file:/D:/Java%20Web/J3.L.P0015/src/java/danhnpc/tblcar/TblCarDTO.java</file>
+            <file>file:/D:/Java%20Web/J3.L.P0015/web/home.jsp</file>
+        </group>
+    </open-files>
+</project-private>
